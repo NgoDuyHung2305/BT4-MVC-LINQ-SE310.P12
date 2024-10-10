@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BT4-MVC-LINQ", "tuan4_ASP_MVC_Product\BT4-MVC-LINQ.csproj", "{B30CAE9B-E29E-4CC3-A0CC-CAF97F3A4865}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B30CAE9B-E29E-4CC3-A0CC-CAF97F3A4865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B30CAE9B-E29E-4CC3-A0CC-CAF97F3A4865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B30CAE9B-E29E-4CC3-A0CC-CAF97F3A4865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B30CAE9B-E29E-4CC3-A0CC-CAF97F3A4865}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA4A0809-59B1-430E-954A-65AD9C00A6E6}
+	EndGlobalSection
+EndGlobal
